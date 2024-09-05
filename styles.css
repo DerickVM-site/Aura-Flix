@@ -1,0 +1,81 @@
+body {
+background: brown;
+color: antiquewhite;
+font-size: x-large;
+font-style: normal;
+font-variant: petite-caps;
+border-style: solid;
+font-family: "Chakra Petch", sans-serif;
+margin-bottom: 100px;
+}
+header {
+    border-style:solid;
+    border-bottom: solid 2px antiquewhite;
+    padding: 1px;
+    font-size: 100px;
+    color: antiquewhite;
+
+}
+
+
+    section {
+        background: black;
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .derickrui{
+        margin-left: 1%;
+    }
+
+    .derickrui2{
+font-size: x-large;
+    }
+
+    img {
+        height: 200px;
+      }
+      .categoria-videos {
+  display: flex;
+  
+}
+
+section {
+    background: black;
+    padding-bottom: 80px;
+    padding-top: 8px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* código omitido */
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+    
+  }
+  /* código omitido */
+
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+
+  .categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos img:hover {
+  opacity: 1.0;
+}
+
+.categoria-videos img:hover {
+  opacity: 1.0;
+  border: 1px solid gold;
+}
